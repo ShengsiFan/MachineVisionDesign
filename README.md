@@ -1,9 +1,9 @@
 # MachineVisionDesign
 机器视觉课程设计
 
-带角度输出的NCC模板匹配算法。
+带角度输出的基于四层图像金字塔的NCC模板匹配算法。
 
-效果：匹配640*480的图像需要半秒左右
+效果：匹配640*480的图像需要1秒以内
 
-![哦豁，图片莫得了](https://github.com/ShengsiFan/MachineVisionDesigh/raw/master/performance/Performance1.png)
+![哦豁，图片莫得了](https://github.com/ShengsiFan/MachineVisionDesigh/raw/master/performance1.png)
 
